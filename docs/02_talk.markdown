@@ -5,6 +5,9 @@ permalink: /talks/
 hide_header: true
 ---
 
+**September 2025** - AiMat Summer School
+  "A Mini Introduction to Large Language Models" [[slides]](https://drive.google.com/file/d/1TQ1jmlW86gQHMFpjRcVEr1IvAxwKTIjG/view?usp=sharing)
+
 **September 2024** - University of Toronto & OntarioTech University
   "Retrieval-Augmented Approaches for Low-Resource Conditions in Speech Translation" [[slides]](https://drive.google.com/file/d/1JSZoOhttrnn1GZLBeKFV483t9nVjbPNf/view?usp=sharing)
 

@@ -8,6 +8,8 @@ order: 1
 
 #### 2025
 
+**Danni Liu**, Jan Niehues. (2025). [Conditions for Catastrophic Forgetting in Multilingual Translation](https://arxiv.org/pdf/2510.19546). [[poster]](https://drive.google.com/file/d/1J7Lh9a_vAjRaw5kagFAkAsUgMPzKMDtV/view?usp=sharing) *MRL Workshop @ EMNLP*
+
 **Danni Liu**, Jan Niehues. (2025). [Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs](https://aclanthology.org/2025.acl-long.778.pdf). [[poster]](https://drive.google.com/file/d/1B7SPaQBqyaTHVdgfpKm44nj5Io_kOE5k/view?usp=sharing) *ACL*
 
 Hyunji Lee, **Danni Liu**, Supriti Sinhamahapatra, and Jan Niehues. (2025). [How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations](https://aclanthology.org/2025.naacl-short.51.pdf). [[poster]](https://drive.google.com/file/d/1B7SPaQBqyaTHVdgfpKm44nj5Io_kOE5k/view?usp=sharing) *NAACL*
