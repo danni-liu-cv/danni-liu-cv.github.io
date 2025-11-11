@@ -10,7 +10,7 @@ layout: page
 Hi there! :)
 
 
-I am a final-year Ph.D. candidate at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) (KIT) advised by [Jan Niehues](https://ai4lt.iar.kit.edu/english/21_92.php). I started my Ph.D. with the same advisor at [Maastricht University](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences), where I also completed my M.Sc. in Artificial Intelligence. I was a research intern at [Meta AI](https://ai.meta.com/) and [Nuance Communications](https://www.nuance.com/index.html). Before my research roles, I worked as a business intelligence consultant at [Open Line](https://openline.nl/).
+I am a final-year Ph.D. candidate at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) (KIT) advised by [Jan Niehues](https://ai4lt.iar.kit.edu/english/team_jan_niehues.php). I started my Ph.D. with the same advisor at [Maastricht University](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences), where I also completed my M.Sc. in Artificial Intelligence. I was a research intern at [Meta AI](https://ai.meta.com/) and [Nuance Communications](https://www.nuance.com/index.html). Before my research roles, I worked as a business intelligence consultant at [Open Line](https://openline.nl/).
 
 
 Here is my [CV][1].
