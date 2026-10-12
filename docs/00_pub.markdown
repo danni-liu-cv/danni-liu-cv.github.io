@@ -5,6 +5,7 @@ permalink: /pub/
 hide_header: true
 order: 1
 ---
+Last updated on 30 October, 2025
 
 #### 2025
 

@@ -5,6 +5,8 @@ permalink: /tasks/
 hide_header: true
 ---
 
+Last updated on 30 October, 2025
+
 Zhaolin Li, Yining Liu, **Danni Liu**, Tuan Nam Nguyen, Enes Yavuz Ugan, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues. (2025). [KIT’s Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization](https://aclanthology.org/2025.iwslt-1.20.pdf). *IWSLT*
 
 Sai Koneru, Thai-Binh Nguyen, Ngoc-Quan Pham, **Danni Liu**, Zhaolin Li, Alexander Waibel, Jan Niehues. (2024). [Blending LLMs into Cascaded Speech Translation: KIT’s Offline Speech Translation System for IWSLT 2024](https://aclanthology.org/2024.iwslt-1.24.pdf). *IWSLT*
